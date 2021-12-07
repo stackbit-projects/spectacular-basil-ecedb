@@ -82,7 +82,7 @@ sections:
           - pr-4
         alignItems: center
         justifyContent: center
-        flexDirection: row
+        flexDirection: col
       title:
         textAlign: left
       subtitle:
